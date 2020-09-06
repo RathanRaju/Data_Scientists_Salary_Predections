@@ -56,7 +56,7 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
 
 ![alt text](https://github.com/RathanRaju/Data_Scientists_Salary_Predections/blob/master/Salary_by_position.JPG "Salary by postions")
-![alt text](https://github.com/RathanRaju/Data_Scientists_Salary_Predections/blob/master/positions_by_state.png "Positions By State")
+![alt text](https://github.com/RathanRaju/Data_Scientists_Salary_Predections/blob/master/postions_by_city.png "Jobs By City")
 ![alt text](https://github.com/RathanRaju/Data_Scientists_Salary_Predections/blob/master/correlation_visual.png "Correlations")
 
 ## Model Building 
