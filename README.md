@@ -1,4 +1,4 @@
-# Data_Scientists_Salary_Predections
+# Data_Scientists_Salary_Predictions
 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
 * Scraped over 1000 job descriptions from glassdoor using python and selenium
